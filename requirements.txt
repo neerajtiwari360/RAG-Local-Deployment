@@ -1,0 +1,9 @@
+requests
+torch
+PyMuPDF
+tqdm
+sentence-transformers
+accelerate 
+bitsandbytes
+pandas
+spacy
