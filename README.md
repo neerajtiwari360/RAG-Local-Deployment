@@ -30,7 +30,7 @@ EnergyInsight leverages **RAG** to turn static documents into dynamic, interacti
 5. **Generate an Answer**: Craft an insightful response with OpenAI’s GPT model.  
 
 ### **Diagram of the RAG Workflow**  
-![RAG Workflow](https://via.placeholder.com/800x400.png?text=RAG+Workflow+Diagram)  
+![RAG Workflow](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*qzyv4h0XjlM5l__H.png)  
 
 ---
 
