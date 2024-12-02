@@ -79,7 +79,7 @@ The tool retrieves relevant insights from the report and generates a precise ans
 ## **Demo Video**  
 
 📺 Watch the detailed walkthrough on YouTube:  
-👉 **[How to Build EnergyInsight with RAG](https://youtu.be/your-video-link)**  
+👉 **[How to Build EnergyInsight with RAG](https://youtu.be/Fi9Gx06egd4)**  
 
 ---
 
@@ -119,7 +119,7 @@ Contributions are welcome! If you have suggestions for improving the tool or add
 Start interacting with renewable energy insights now!  
 
 👉 **[GitHub Code Repository](https://github.com/your-repo-link)**  
-📺 **[YouTube Walkthrough](https://youtu.be/your-video-link)**  
+📺 **[YouTube Walkthrough](https://youtu.be/Fi9Gx06egd4)**  
 
 --- 
 
